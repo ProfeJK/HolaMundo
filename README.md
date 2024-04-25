@@ -1,2 +1,2 @@
 # HolaMundo
-pasos del tutorial
+un texto alternativo
